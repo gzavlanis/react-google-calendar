@@ -1,5 +1,5 @@
 {
-  "name": "@ericz1803/react-google-calendar",
+  "name": "@gzavlanis/react-google-calendar",
   "version": "4.3.2",
   "description": "React Google Calendar Component",
   "main": "dist/react-google-calendar.umd.js",
@@ -26,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericz1803/react-google-calendar.git"
+    "url": "git+https://github.com/gzavlanis/react-google-calendar"
   },
-  "author": "Eric Zhou",
+  "author": "Eric Zhou and George Zavlanis",
   "license": "MIT",
   "keywords": [
     "react",
